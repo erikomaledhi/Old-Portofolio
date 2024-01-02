@@ -475,7 +475,7 @@ footer {
   }
 
   .language {
-    width: calc(100% / 3);
+    width: 50%;
   }
 
   .project__description--para {
