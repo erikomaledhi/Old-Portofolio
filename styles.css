@@ -252,7 +252,7 @@ nav {
 
 .wave {
   display: inline-block;
-animation: animate-wave 500ms infinite ease-in-out;
+  animation: animate-wave 500ms infinite ease-in-out;
 }
 
 @keyframes animate-wave {
@@ -423,7 +423,7 @@ footer {
   justify-content: space-around;
 }
 
-.footer__logo{
+.footer__logo {
   width: 120px;
   height: 120px;
   overflow: hidden;
@@ -431,7 +431,6 @@ footer {
 
 .footer__logo--image {
   width: 100%;
-  
 }
 
 .footer__social--link,
@@ -439,8 +438,6 @@ footer {
 .footer__logo--popper {
   color: #fff;
 }
-
-
 
 .footer__logo--popper {
   position: absolute;
@@ -510,7 +507,6 @@ footer {
   .project__description--links {
     display: flex;
     justify-content: center;
-
   }
 
   .project__description--title {
